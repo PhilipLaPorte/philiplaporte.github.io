@@ -17,7 +17,7 @@ social:
     visibility: false
     handle: a
   linkedin: 
-    visibility: true
+    visibility: false
     handle: a
   twitter: 
     visibility: false
@@ -57,7 +57,7 @@ collection_option:
     visibility: false
   education: 
     label: Education
-    visibility: true
+    visibility: false
   projects: 
     label: Projects
     visibility: false
@@ -80,10 +80,10 @@ collection_option:
 navigation:
 - title: About
   url: /
-- title: Blog
-  url: /blog/
-- title: Contact
-  url: /contact
+#- title: Blog
+#  url: /blog/
+#- title: Contact
+#  url: /contact
 
 include:
   - _pages
