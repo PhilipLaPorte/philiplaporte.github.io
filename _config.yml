@@ -1,6 +1,6 @@
 name: Philip LaPorte
 tagline: Mathematics Ph.D. Candidate, UC Berkeley
-career-objective: U.
+career-objective: Site in progress. Please check back later!
 color-theme: red # red or blue
 avatar-filename: avatar.png # Change to your avatar's filename
 url: philiplaporte.github.io
@@ -14,13 +14,13 @@ social:
     visibility: true
     mail: philip_laporte@berkeley.edu
   github: 
-    visibility: true
+    visibility: false
     handle: a
   linkedin: 
     visibility: true
     handle: a
   twitter: 
-    visibility: true
+    visibility: false
     handle: a
 
 # Collections
