@@ -1,10 +1,10 @@
-name: Arnob Karmokar
-tagline: Electrical and Electronic Engineer
-career-objective: This is a GitHub Pages template for academic portfolio websites. Fork <a href="https://github.com/academicportfolio/academicportfolio.github.io">this repository</a> to get started. This section will be replaced by your career objective. Read the README of the repository to learn about customizing the site.
+name: Philip LaPorte
+tagline: Mathematics Ph.D. Candidate, UC Berkeley
+career-objective: U.
 color-theme: red # red or blue
 avatar-filename: avatar.png # Change to your avatar's filename
-url: academicportfolio.github.io
-baseurl: /
+url: philiplaporte.github.io
+baseurl: 
 paginate: 5
 paginate_path: "/blog/page:num/"
 
@@ -12,16 +12,16 @@ paginate_path: "/blog/page:num/"
 social:
   email: 
     visibility: true
-    mail: contact@arnob.me
+    mail: philip_laporte@berkeley.edu
   github: 
     visibility: true
-    handle: arnobk
+    handle: a
   linkedin: 
     visibility: true
-    handle: arnobkarmokar
+    handle: a
   twitter: 
     visibility: true
-    handle: arnobdotme
+    handle: a
 
 # Collections
 collections:
