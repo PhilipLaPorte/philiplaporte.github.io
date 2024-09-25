@@ -25,9 +25,9 @@ social:
 
 # Collections
 collections:
-  experience:
-    output: false
-    sort_by: order
+  #experience:
+  #  output: false
+  #  sort_by: order
   education:
     output: false
     sort_by: order
