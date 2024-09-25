@@ -25,9 +25,9 @@ social:
 
 # Collections
 collections:
-  #experience:
-  #  output: false
-  #  sort_by: order
+  experience:
+    output: false
+    sort_by: order
   education:
     output: false
     sort_by: order
@@ -54,28 +54,28 @@ collections:
 collection_option:
   experience: 
     label: Experience
-    visibility: true
+    visibility: false
   education: 
     label: Education
     visibility: true
   projects: 
     label: Projects
-    visibility: true
+    visibility: false
   skills: 
     label: Technical Skills
-    visibility: true
+    visibility: false
   publications: 
     label: Publications
     visibility: true
   volunteerexperience: 
     label: Volunteer Experience
-    visibility: true
+    visibility: false
   certifications: 
     label: Certifications
-    visibility: true
+    visibility: false
   achievements: 
     label: Achievements
-    visibility: true
+    visibility: false
 
 navigation:
 - title: About
