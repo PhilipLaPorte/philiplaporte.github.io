@@ -7,4 +7,4 @@ pub-url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.
 comments: true
 ---
 
-
+Adaptive dynamics is a process where a homogeneous population evolves according to the gradient of the payoff function against itself. We study adaptive dynamics in the space of memory-1 strategies for repeated games. Memory-1 strategies determine their next move based on the outcome of the previous round.
