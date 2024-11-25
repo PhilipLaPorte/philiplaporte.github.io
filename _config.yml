@@ -39,7 +39,7 @@ collections:
     output: false
     sort_by: order
   projects:
-    output: true
+    output: false
     sort_by: year
   skills:
     output: false
@@ -63,8 +63,8 @@ collection_option:
     label: Experience
     visibility: false
   education: 
-    label: Education
-    visibility: false
+    label: education
+    visibility: true
   projects: 
     label: Projects
     visibility: false
@@ -78,8 +78,8 @@ collection_option:
     label: Volunteer Experience
     visibility: false
   certifications: 
-    label: Certifications
-    visibility: false
+    label: talks and presentations
+    visibility: true
   achievements: 
     label: Achievements
     visibility: false

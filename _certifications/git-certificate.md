@@ -1,7 +1,7 @@
 ---
-title: Git Certificate
-institute: Coursera
-year: 2020
-certificate_url: https://coursera.com/
-excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac sapien vel sem tristique consequat ac eu magna. Nulla condimentum erat quis enim tempor consequat.
+title: How to exploit majority rule - the McKelvey chaos theorem
+institute: (2023) Many Cheerful Facts seminar, UC Berkeley Mathematics Dept
+year:
+certificate_url: 
+excerpt: 
 ---

@@ -113,8 +113,8 @@ layout: default
     <p class="ap-subtitle">{{site.collection_option['certifications']['label']}}</p>
     {% for certificate in site.certifications reversed %}
     <div class="ap-certification">
-        <a class="ap-certification-title" href="{{certificate.certificate_url}}"
-            target="_blank">{{certificate.title}}</a>
+        <span class="ap-certification-title" style="text-decoration: none; color:black;">{{certificate.title}}</span>
+    </div>
         <p class="ap-certification-institute">{{certificate.institute}}</p>
         <p class="ap-certification-year">{{certificate.year}}</p>
         <p class="ap-certification-excerpt">{{certificate.excerpt}}</p>
