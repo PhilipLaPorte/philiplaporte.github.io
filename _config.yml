@@ -52,7 +52,7 @@ collections:
     sort_by: order
   certifications:
     output: false
-    sort_by: year
+    sort_by: order
   achievements:
     output: false
     sort_by: year

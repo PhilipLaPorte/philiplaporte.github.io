@@ -1,5 +1,5 @@
 ---
-title: Recursive partitions and complete strategy spaces
+title: Complete strategy spaces of direct reciprocity
 year: (soon to be submitted)
 #excerpt:
 pub-image: #geometric.jpg
