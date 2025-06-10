@@ -109,7 +109,6 @@ a:hover {
     font-weight: 400;
     font-size: 18px;
     color: #555555;
-
 }
 
 .ap-experience {
@@ -143,22 +142,24 @@ a:hover {
 
 .ap-education-degree {
     font-family: "DM Sans", sans-serif;
-    font-size: 18px;
-    font-weight: 600;
+    font-size: 16px;
+    font-weight: 300;
+    color: #000 !important;
 }
 
 .ap-education-institute {
     font-family: "DM Sans", sans-serif;
     font-size: 16px;
-    font-weight: 500;
+    font-weight: 300;
+    color: #000 !important;
 }
 
 .ap-education-year {
     font-family: "DM Sans", sans-serif;
-    font-size: 14px;
-    font-weight: 400;
+    font-size: 16px;
+    font-weight: 300;
     color: #8f8f8f;
-    margin: 4px 0px 8px;
+    margin: 0px 0px 0px;
 }
 
 .ap-education-excerpt {
@@ -229,13 +230,13 @@ a:hover {
 }
 
 .ap-publication {
-    margin: 16px 0px;
+    margin: 6px 0px;
 }
 
 .ap-publication-title {
     font-family: "DM Sans", sans-serif;
-    font-size: 18px;
-    font-weight: 600;
+    font-size: 16px;
+    font-weight: 300;
     color: #000 !important;
     text-decoration: none;
 }
@@ -247,10 +248,10 @@ a:hover {
 
 .ap-publication-year {
     font-family: "DM Sans", sans-serif;
-    font-size: 14px;
-    font-weight: 400;
+    font-size: 16px;
+    font-weight: 300;
     color: #8f8f8f;
-    margin: 4px 0px 8px;
+    margin: 0px 0px 0px;
 }
 
 .ap-publication-excerpt {
@@ -261,13 +262,13 @@ a:hover {
 }
 
 .ap-certification {
-    margin: 16px 0px;
+    margin: 6px 0px;
 }
 
 .ap-certification-title {
     font-family: "DM Sans", sans-serif;
-    font-size: 18px;
-    font-weight: 600;
+    font-size: 16px;
+    font-weight: 300;
     color: #000 !important;
     text-decoration: none;
 }
@@ -280,15 +281,17 @@ a:hover {
 .ap-certification-institute {
     font-family: "DM Sans", sans-serif;
     font-size: 16px;
-    font-weight: 500;
+    font-weight: 300;
+    color: #8f8f8f;
+    margin: 0px 0px 0px;
 }
 
 .ap-certification-year {
     font-family: "DM Sans", sans-serif;
-    font-size: 14px;
-    font-weight: 400;
+    font-size: 16px;
+    font-weight: 300;
     color: #8f8f8f;
-    margin: 4px 0px 8px;
+    margin: 0px 0px 0px;
 }
 
 .ap-certification-excerpt {

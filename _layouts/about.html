@@ -91,6 +91,10 @@ layout: default
 </div>
 {% endif %}
 
+
+
+
+
 {% if site.collection_option['volunteerexperience']['visibility'] == true %}
 <div class="ap-line"></div>
 <!-- VOLUNTEER EXPERIENCE -->
@@ -114,7 +118,6 @@ layout: default
     {% for certificate in site.certifications reversed %}
     <div class="ap-certification">
         <span class="ap-certification-title" style="text-decoration: none; color: inherit;">{{certificate.title}}</span>
-    </div>
         <p class="ap-certification-institute">{{certificate.institute}}</p>
         <p class="ap-certification-year">{{certificate.year}}</p>
         <p class="ap-certification-excerpt">{{certificate.excerpt}}</p>
