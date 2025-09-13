@@ -1,5 +1,5 @@
 ---
-title: Equilibria and foreknowledge for repeated 2x2 games
+title: From simultaneous to asynchronous play in direct reciprocity.
 year: (in progress)
 #excerpt:
 pub-image: #geometric.jpg
