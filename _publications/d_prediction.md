@@ -1,6 +1,6 @@
 ---
 title: From simultaneous to asynchronous play in direct reciprocity.
-year: (in revision)
+year: (currently in revision at PNAS Nexus)
 #excerpt:
 pub-image: #geometric.jpg
 pub-url: #https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2023.0460
