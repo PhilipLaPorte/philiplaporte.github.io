@@ -1,5 +1,5 @@
 ---
-title: Complete strategy spaces of direct reciprocity
+title: <span style="color:gray">Complete strategy spaces of direct reciprocity</span>
 year: (currently in revision at PNAS)
 #excerpt:
 pub-image: #geometric.jpg

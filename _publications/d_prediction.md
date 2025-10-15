@@ -1,5 +1,5 @@
 ---
-title: From simultaneous to asynchronous play in direct reciprocity.
+title: <span style="color:gray">From simultaneous to asynchronous play in direct reciprocity</span>
 year: (currently in revision at PNAS Nexus)
 #excerpt:
 pub-image: #geometric.jpg
