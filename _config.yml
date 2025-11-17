@@ -63,8 +63,8 @@ collection_option:
     label: Experience
     visibility: false
   projects: 
-    label: Projects
-    visibility: false
+    label: misc
+    visibility: true
   skills: 
     label: Technical Skills
     visibility: false
@@ -82,7 +82,7 @@ collection_option:
     visibility: false
   education: 
     label: education
-    visibility: true
+    visibility: false
 
 navigation:
 - title: about
