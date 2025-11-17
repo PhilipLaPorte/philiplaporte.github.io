@@ -62,9 +62,6 @@ collection_option:
   experience: 
     label: Experience
     visibility: false
-  education: 
-    label: education
-    visibility: true
   projects: 
     label: Projects
     visibility: false
@@ -83,6 +80,9 @@ collection_option:
   achievements: 
     label: Achievements
     visibility: false
+  education: 
+    label: education
+    visibility: true
 
 navigation:
 - title: about
