@@ -56,6 +56,9 @@ collections:
   achievements:
     output: false
     sort_by: year
+  misc_research:
+    output: true
+    sort_by: order
 
 # About Page Options
 collection_option:
@@ -83,6 +86,9 @@ collection_option:
   education: 
     label: education
     visibility: false
+  misc_research:
+    label: misc
+    visibility: true
 
 navigation:
 - title: about

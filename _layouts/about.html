@@ -142,6 +142,31 @@ layout: default
 </div>
 {% endif %}
 
+{% if site.collection_option['misc_research']['visibility'] == true %}
+<div class="ap-line"></div>
+<div class="ap-block">
+    <p class="ap-subtitle">{{site.collection_option['misc_research']['label']}}</p>
+    
+    {% assign misc_items = site.misc_research | sort: 'order' %}
+    
+    {% for item in misc_items %}
+    
+    <div class="ap-misc-container">
+        
+        <div class="ap-misc-image">
+            <img src="{{ item.image | relative_url }}" alt="{{ item.caption | escape }}" />
+        </div>
+        
+        <div class="ap-misc-caption">
+            <p>{{ item.caption }}</p>
+        </div>
+
+    </div>
+    {% endfor %}
+    
+</div>
+{% endif %}
+
 <div class="ap-line"></div>
 
 <p>[See also <a href="https://josephlaporte.github.io/" target="_blank">Joseph LaPorte</a>.]</p>

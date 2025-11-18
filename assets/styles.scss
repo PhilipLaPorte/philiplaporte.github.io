@@ -572,3 +572,48 @@ a:hover {
         margin-top: 32px;
     }
 }
+
+/* --- Misc Research Section Styles --- */
+
+// This is the container for a single item (image + caption)
+.ap-misc-container {
+  display: grid;
+  grid-template-columns: 150px 1fr; // 150px for image, '1fr' means "rest of the space"
+  gap: 15px;                         // The space between the image and caption
+  align-items: center;               // Vertically aligns the caption to the middle of the image
+  margin-bottom: 25px;               // Space between this item and the next one
+  
+  // Styles for the image column
+  .ap-misc-image {
+    img {
+      width: 100%; // Makes the image fill its 150px column
+      height: auto;  // Maintains aspect ratio
+      border-radius: 5px; // Adds nice rounded corners
+    }
+  }
+
+  // Styles for the caption column
+  .ap-misc-caption {
+    p {
+      font-style: italic;
+      color: #555;
+      margin: 0; // Removes default paragraph spacing
+    }
+  }
+
+  /* --- Mobile/Phone Styles --- */
+  // This "media query" applies *only* to screens 600px wide or less
+  @media (max-width: 600px) {
+    grid-template-columns: 1fr; // Stacks to a single column
+    justify-items: center;      // Centers the image
+    gap: 10px;                  // A smaller gap for the stacked layout
+
+    .ap-misc-image {
+      max-width: 300px; // Lets the image be a bit wider on mobile
+    }
+
+    .ap-misc-caption {
+      text-align: center; // Centers the caption text under the image
+    }
+  }
+}
