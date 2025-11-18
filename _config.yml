@@ -5,11 +5,6 @@ plugins:
 # Add this line
 mathjax: true
 
-kramdown:
-  input: GFM
-  disable_indented_code_blocks: true
-
-  
 name: Philip LaPorte
 tagline: mathematics phd candidate, uc berkeley
 career-objective: I am a fourth-year graduate student at UC Berkeley, co-advised by <a href="https://www.stat.berkeley.edu/~evans/" target="_blank">Steven Evans</a> and <a href="https://www.martinnowak.com/" target="_blank">Martin Nowak</a> (Harvard). I am interested in the mathematics of social behavior, especially evolutionary game theory. Recently I have been working on stochastic games and direct reciprocity. I am very grateful to be supported by an NSF Graduate Research Fellowship and a Simons Dissertation Fellowship. As an undergraduate, I studied math at Harvard with interests in geometry and topology.
