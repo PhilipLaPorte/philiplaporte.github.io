@@ -9,6 +9,8 @@ comments: true
 
 In a basic repeated game, two players choose actions simultaneously. When one player is forced to move first in each round, several interesting things happen. First, the possible payoff outcomes of the game simplify in a satisfying way. This allows one to analyze which Nash equilibria of the original game are still Nash in the new one. Indeed, this is an effective way to find equilibria in the first place. Second, one finds that simple equilibria, like cooperative memory-1 strategies, remain stable. More complicated ones may not.
 
+<p style="text-indent: 2em;">
 Some people may find this paper useful purely as a reference sheet for memory-1 Nash equilibrium strategies in 2x2 games with discounting.
+</p>
 
 [Download paper as PDF]({{ "/assets/Leader_Follower.pdf" | relative_url }})
