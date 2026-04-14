@@ -1,6 +1,6 @@
 ---
 title: Cooperation in direct reciprocity
-institute: (2024) Fu Lab, Dartmouth Mathematics Dept
+institute: (2024) Fu Lab, Dartmouth Mathematics Dept #November 19
 year:
 certificate_url: 
 excerpt: 
